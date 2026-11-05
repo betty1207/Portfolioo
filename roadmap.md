@@ -1,0 +1,3 @@
+- [x] Build an editorial eight-chapter interactive homepage.
+- [x] Build both interactive project case studies.
+- [x] Verify desktop/mobile presentation and interactions.
